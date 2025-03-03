@@ -24,7 +24,7 @@ Software Engineer con la passione per lo sviluppo di soluzioni innovative.
 ## Competenze
 - Linguaggi: Java, C
 - Database: MySQL, SQL, PostgreSQL
-- Framewoerk: Spring Boot
+- Framework: Spring Boot
 - Metodologie di Sviluppo: SCRUM
 - Containerizzazione e Virtualizzazione: Docker, Portainer, Proxmox
 - Domotica: Home Assistant
