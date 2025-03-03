@@ -16,15 +16,9 @@ Software Engineer con la passione per lo sviluppo di soluzioni innovative.
 - Containerizzazione e Virtualizzazione: Docker, Portainer, Proxmox
 - Domotica: Home Assistant
 
-## Lingue
-- Italiano | Madrelingua
-- Inglese  | Livello base
-
 <hr>
 
 # 🚀 **Projects**
-
-List of projects I made with love
 
 | Name | Category | Description | Links |
 | --- | :---: | --- | --- |
