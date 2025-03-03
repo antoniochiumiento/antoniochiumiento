@@ -9,12 +9,12 @@ Software Engineer con la passione per lo sviluppo di soluzioni innovative.
 [![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/aincy)
 
 ## Competenze
-Linguaggi: Java, C
-Database: MySQL, SQL, PostgreSQL
-Framework: Spring Boot
-Metodologie di Sviluppo: SCRUM
-Containerizzazione e Virtualizzazione: Docker, Portainer, Proxmox
-Domotica: Home Assistant
+Linguaggi: Java, C <br>
+Database: MySQL, SQL, PostgreSQL <br>
+Framework: Spring Boot <br>
+Metodologie di Sviluppo: SCRUM <br>
+Containerizzazione e Virtualizzazione: Docker, Portainer, Proxmox <br>
+Domotica: Home Assistant <br>
 
 <hr>
 
