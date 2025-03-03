@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 **Salve, sono Antonio Chiumiento**
-! 
+ 
 Software Engineer con la passione per lo sviluppo di soluzioni innovative.
 
 ## Informazioni Personali
